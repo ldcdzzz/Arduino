@@ -1,5 +1,6 @@
 #include <Servo.h>
 
+
 char leitura;
 int farol_1 = A0;
 int farol_2 = A1;
